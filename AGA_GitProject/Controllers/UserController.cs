@@ -2,7 +2,7 @@
 
 namespace AGA_GitProject.Controllers
 {
-    public class UserController1 : Controller
+    public class UserController : Controller
     {
         public IActionResult Index()
         {
